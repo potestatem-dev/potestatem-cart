@@ -1,12 +1,12 @@
 {
-    "name": "darryldecode/cart",
+    "name": "potestatem-dev/potestatem-cart",
     "description": "Laravel 5 Shopping cart",
     "keywords": ["laravel", "shopping cart", "cart"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Darryl Fernandez",
-            "email": "engrdarrylfernandez@gmail.com"
+            "name": "Henrique Marques",
+            "email": "henriquembarros@gmail.com"
         }
     ],
     "require": {
